@@ -1,0 +1,10 @@
+This folder contains some images that are created from the R script.
+
+Image 1: A composite visualisation of the raw data.
+Image 2: A generalised Cross Validation (GCV) graph to find the optimal smoothing parameter of the data with a harmonic roughness penalty.
+Image 3: The smoothed composite visualisation for saturated b-spline basis, and using GCV to find the best harmonic roughness penalty.
+Image 4: The first derivative of the raw data.
+Image 5: The second derivative of the raw data.
+Image 6: The first three principal components of the data, explaining 80% of the variance.
+Image 7: (Right) A Leave One Out Cross Validation graph to find the optimal smoothing parameter for the principal components.
+         (Left) A graph of the smoothed principal components.
